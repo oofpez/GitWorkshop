@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace GitWorkshop
 {
-    internal class Program
+    public class GitWorkshopRules
     {
-        private static void Main(string[] args)
+        public GitWorkshopRules()
         {
-            //Hi I am a Program lol
         }
     }
 }
