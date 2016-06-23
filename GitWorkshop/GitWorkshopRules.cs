@@ -10,6 +10,7 @@ namespace GitWorkshop
     {
         public GitWorkshopRules()
         {
+            //"YEAH"
         }
     }
 }
